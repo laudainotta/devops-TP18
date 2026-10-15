@@ -13,3 +13,8 @@ __pycache__/
 # TP16 - artefactos locales de Trivy
 manifests-rendered-*.yaml
 trivy-*.txt
+
+# TP18: reportes locales (pueden contener datos sensibles)
+reports-json/
+.semgrep-tmp/
+manifests-rendered-prod.yaml
